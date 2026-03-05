@@ -43,8 +43,8 @@ next-env.d.ts
 /app/generated/prisma
 
 # SQLite database
-prisma/*.db
-prisma/*.db-journal
+prisma/**/*.db
+prisma/**/*.db-journal
 
 # Hardhat artifacts
 /artifacts
